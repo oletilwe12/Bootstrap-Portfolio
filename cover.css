@@ -132,3 +132,10 @@ mark{
 .section-title {
   border: 2px solid #0563bb;
 }
+
+
+.view  {
+  position:center; 
+  padding-left: 600px;
+  top:2px;
+}

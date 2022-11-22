@@ -135,7 +135,8 @@ mark{
 
 
 .view  {
-  position:center; 
-  padding-left: 600px;
-  top:2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: red;
 }
